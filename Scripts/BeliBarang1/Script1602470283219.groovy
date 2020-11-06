@@ -47,7 +47,5 @@ WebUI.verifyElementPresent(findTestObject('3.PageProfile/Tulisan_DataDiri'), 5)
 
 WebUI.delay(3)
 
-WebUI.scrollToElement(findTestObject('5.PageBarang/Barang'), 0)
-
-WebUI.click(findTestObject('5.PageBarang/Barang'))
+WebUI.click(findTestObject('4.FolderBeranda2/Klik_Produk'))
 
